@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Venkatesh7981/LeetCode/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/Venkatesh7981/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Venkatesh7981/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/Venkatesh7981/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Venkatesh7981/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Venkatesh7981/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
 | ------- |
