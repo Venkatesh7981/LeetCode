@@ -1,6 +1,6 @@
 class Solution {
     public int findComplement(int num) {
-        int ans=0;
+      /*  int ans=0;
         if(num==0)return 1;
         String bin=Integer.toBinaryString(num);
         int n=bin.length();
@@ -13,5 +13,10 @@ class Solution {
         }
         
         return Integer.parseInt(st,2);
+        */
+        if(num==0) return 1;
+        int mask=(Integer.highestOneBit(num)<<1)-1;
+
+       return num^mask;
          }
 }
