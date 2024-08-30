@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Venkatesh7981/LeetCode/tree/master/0001-two-sum) |
+| [0389-find-the-difference](https://github.com/Venkatesh7981/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Venkatesh7981/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Venkatesh7981/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Venkatesh7981/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Venkatesh7981/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Venkatesh7981/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Venkatesh7981/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Venkatesh7981/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Venkatesh7981/LeetCode/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Venkatesh7981/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Venkatesh7981/LeetCode/tree/master/0476-number-complement) |
 ## Tree
 |  |
