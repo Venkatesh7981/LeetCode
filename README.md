@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Venkatesh7981/LeetCode/tree/master/0069-sqrtx) |
 | [2571-find-the-pivot-integer](https://github.com/Venkatesh7981/LeetCode/tree/master/2571-find-the-pivot-integer) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Venkatesh7981/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Venkatesh7981/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Matrix
 |  |
