@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Venkatesh7981/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Venkatesh7981/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Venkatesh7981/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Venkatesh7981/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Array
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Venkatesh7981/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Venkatesh7981/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
 |  |
