@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Venkatesh7981/LeetCode/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0263-ugly-number) |
 | [2571-find-the-pivot-integer](https://github.com/Venkatesh7981/LeetCode/tree/master/2571-find-the-pivot-integer) |
 ## Hash Table
 |  |
