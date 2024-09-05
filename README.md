@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Venkatesh7981/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Venkatesh7981/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Venkatesh7981/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Venkatesh7981/LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Venkatesh7981/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Venkatesh7981/LeetCode/tree/master/0455-assign-cookies) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Venkatesh7981/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Venkatesh7981/LeetCode/tree/master/0476-number-complement) |
 ## Tree
