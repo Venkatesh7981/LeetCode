@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Venkatesh7981/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Venkatesh7981/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/Venkatesh7981/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Venkatesh7981/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Venkatesh7981/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Venkatesh7981/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Venkatesh7981/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Venkatesh7981/LeetCode/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/Venkatesh7981/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Venkatesh7981/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Venkatesh7981/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Venkatesh7981/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Venkatesh7981/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Venkatesh7981/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Venkatesh7981/LeetCode/tree/master/0455-assign-cookies) |
 | [0898-transpose-matrix](https://github.com/Venkatesh7981/LeetCode/tree/master/0898-transpose-matrix) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Venkatesh7981/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Venkatesh7981/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Venkatesh7981/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Venkatesh7981/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Venkatesh7981/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Venkatesh7981/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Venkatesh7981/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Venkatesh7981/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Greedy
 |  |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Venkatesh7981/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Venkatesh7981/LeetCode/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Venkatesh7981/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Venkatesh7981/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Tree
 |  |
