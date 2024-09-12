@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Venkatesh7981/LeetCode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0268-missing-number) |
 | [2571-find-the-pivot-integer](https://github.com/Venkatesh7981/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Venkatesh7981/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Hash Table
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Venkatesh7981/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Venkatesh7981/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Venkatesh7981/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Venkatesh7981/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Venkatesh7981/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Venkatesh7981/LeetCode/tree/master/0389-find-the-difference) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Venkatesh7981/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Venkatesh7981/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Venkatesh7981/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Venkatesh7981/LeetCode/tree/master/0455-assign-cookies) |
 | [0898-transpose-matrix](https://github.com/Venkatesh7981/LeetCode/tree/master/0898-transpose-matrix) |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Venkatesh7981/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Venkatesh7981/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Venkatesh7981/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Venkatesh7981/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Venkatesh7981/LeetCode/tree/master/0455-assign-cookies) |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Venkatesh7981/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Venkatesh7981/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Venkatesh7981/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
@@ -121,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Venkatesh7981/LeetCode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Venkatesh7981/LeetCode/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Venkatesh7981/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
