@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Venkatesh7981/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Venkatesh7981/LeetCode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0268-missing-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Venkatesh7981/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Venkatesh7981/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Venkatesh7981/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Venkatesh7981/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Venkatesh7981/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Venkatesh7981/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0136-single-number) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Venkatesh7981/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Venkatesh7981/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Venkatesh7981/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/Venkatesh7981/LeetCode/tree/master/0898-transpose-matrix) |
