@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Venkatesh7981/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Venkatesh7981/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Venkatesh7981/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Venkatesh7981/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Venkatesh7981/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Venkatesh7981/LeetCode/tree/master/0476-number-complement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Venkatesh7981/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Venkatesh7981/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Venkatesh7981/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Tree
 |  |
 | ------- |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Venkatesh7981/LeetCode/tree/master/0226-invert-binary-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Venkatesh7981/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
