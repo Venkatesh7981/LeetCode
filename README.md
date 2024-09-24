@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Venkatesh7981/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Venkatesh7981/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Venkatesh7981/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Venkatesh7981/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Venkatesh7981/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Venkatesh7981/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Venkatesh7981/LeetCode/tree/master/0392-is-subsequence) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Venkatesh7981/LeetCode/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/Venkatesh7981/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Venkatesh7981/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Venkatesh7981/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0268-missing-number) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Venkatesh7981/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Venkatesh7981/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Venkatesh7981/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Venkatesh7981/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Venkatesh7981/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Venkatesh7981/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Venkatesh7981/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Venkatesh7981/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Venkatesh7981/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Venkatesh7981/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Venkatesh7981/LeetCode/tree/master/0190-reverse-bits) |
 ## Recursion
@@ -238,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Venkatesh7981/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Venkatesh7981/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
