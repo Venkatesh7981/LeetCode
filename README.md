@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Venkatesh7981/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Venkatesh7981/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Venkatesh7981/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Venkatesh7981/LeetCode/tree/master/0069-sqrtx) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Venkatesh7981/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0263-ugly-number) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Venkatesh7981/LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Venkatesh7981/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Venkatesh7981/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Venkatesh7981/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Venkatesh7981/LeetCode/tree/master/0234-palindrome-linked-list) |
