@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Venkatesh7981/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Venkatesh7981/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Venkatesh7981/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Venkatesh7981/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Venkatesh7981/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Venkatesh7981/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Monotonic Stack
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Venkatesh7981/LeetCode/tree/master/0155-min-stack) |
 | [0729-my-calendar-i](https://github.com/Venkatesh7981/LeetCode/tree/master/0729-my-calendar-i) |
 ## Segment Tree
 |  |
