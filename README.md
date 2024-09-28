@@ -116,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Venkatesh7981/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Venkatesh7981/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Venkatesh7981/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0937-online-stock-span](https://github.com/Venkatesh7981/LeetCode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Venkatesh7981/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Venkatesh7981/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/Venkatesh7981/LeetCode/tree/master/0937-online-stock-span) |
 ## Counting
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Venkatesh7981/LeetCode/tree/master/0155-min-stack) |
 | [0729-my-calendar-i](https://github.com/Venkatesh7981/LeetCode/tree/master/0729-my-calendar-i) |
+| [0937-online-stock-span](https://github.com/Venkatesh7981/LeetCode/tree/master/0937-online-stock-span) |
 ## Segment Tree
 |  |
 | ------- |
@@ -284,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Venkatesh7981/LeetCode/tree/master/0729-my-calendar-i) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Venkatesh7981/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
