@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Venkatesh7981/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Venkatesh7981/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Venkatesh7981/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2227-sum-of-subarray-ranges](https://github.com/Venkatesh7981/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Venkatesh7981/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Venkatesh7981/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -126,12 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Venkatesh7981/LeetCode/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Venkatesh7981/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/Venkatesh7981/LeetCode/tree/master/0937-online-stock-span) |
+| [2227-sum-of-subarray-ranges](https://github.com/Venkatesh7981/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Venkatesh7981/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Venkatesh7981/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/Venkatesh7981/LeetCode/tree/master/0937-online-stock-span) |
+| [2227-sum-of-subarray-ranges](https://github.com/Venkatesh7981/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Counting
 |  |
 | ------- |
