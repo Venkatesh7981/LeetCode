@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/Venkatesh7981/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Venkatesh7981/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Venkatesh7981/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Venkatesh7981/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Venkatesh7981/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/Venkatesh7981/LeetCode/tree/master/0937-online-stock-span) |
 | [2227-sum-of-subarray-ranges](https://github.com/Venkatesh7981/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Venkatesh7981/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Venkatesh7981/LeetCode/tree/master/0898-transpose-matrix) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Venkatesh7981/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Venkatesh7981/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Venkatesh7981/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
