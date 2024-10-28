@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/Venkatesh7981/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Venkatesh7981/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Venkatesh7981/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Venkatesh7981/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Venkatesh7981/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Venkatesh7981/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/Venkatesh7981/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Venkatesh7981/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Venkatesh7981/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Venkatesh7981/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Venkatesh7981/LeetCode/tree/master/0053-maximum-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Venkatesh7981/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/Venkatesh7981/LeetCode/tree/master/0392-is-subsequence) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Venkatesh7981/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Venkatesh7981/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Venkatesh7981/LeetCode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Venkatesh7981/LeetCode/tree/master/0455-assign-cookies) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Venkatesh7981/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Venkatesh7981/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0729-my-calendar-i](https://github.com/Venkatesh7981/LeetCode/tree/master/0729-my-calendar-i) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Venkatesh7981/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Venkatesh7981/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Matrix
 |  |
 | ------- |
