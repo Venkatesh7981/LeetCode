@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Venkatesh7981/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Venkatesh7981/LeetCode/tree/master/0268-missing-number) |
+| [0944-smallest-range-i](https://github.com/Venkatesh7981/LeetCode/tree/master/0944-smallest-range-i) |
 | [2571-find-the-pivot-integer](https://github.com/Venkatesh7981/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Venkatesh7981/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Hash Table
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Venkatesh7981/LeetCode/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/Venkatesh7981/LeetCode/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/Venkatesh7981/LeetCode/tree/master/0898-transpose-matrix) |
+| [0944-smallest-range-i](https://github.com/Venkatesh7981/LeetCode/tree/master/0944-smallest-range-i) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Venkatesh7981/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Venkatesh7981/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Venkatesh7981/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
