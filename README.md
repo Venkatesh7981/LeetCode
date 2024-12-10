@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Venkatesh7981/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Venkatesh7981/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Venkatesh7981/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3429-special-array-i](https://github.com/Venkatesh7981/LeetCode/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Venkatesh7981/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
